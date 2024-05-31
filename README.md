@@ -83,7 +83,6 @@ I'm an enthusiastic B.Tech student in Computer Science Engineering at Bennett Un
 
 [![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuryaRaghuvanshi02)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/SuryaRaghuvanshi02/SuryaRaghuvanshi02/blob/output/github-contribution-grid-snake.svg)
 <!--
 **SuryaRaghuvanshi02/SuryaRaghuvanshi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
