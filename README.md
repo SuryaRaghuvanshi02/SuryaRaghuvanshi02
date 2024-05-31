@@ -58,6 +58,18 @@ I'm an enthusiastic B.Tech student in Computer Science Engineering at Bennett Un
 
 ---
 
+### 📝 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
+
 ### 📈 GitHub Stats
 ![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuryaRaghuvanshi02&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaRaghuvanshi02&layout=compact&theme=radical)
@@ -70,18 +82,6 @@ I'm an enthusiastic B.Tech student in Computer Science Engineering at Bennett Un
 
 ---
 
-### 📝 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
-
-[![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuryaRaghuvanshi02)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SuryaRaghuvanshi02/SuryaRaghuvanshi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
