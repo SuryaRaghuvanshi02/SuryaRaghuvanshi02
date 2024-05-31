@@ -74,10 +74,6 @@ I'm an enthusiastic B.Tech student in Computer Science Engineering at Bennett Un
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### 🎨 Top Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SuryaRaghuvanshi02&repo=NewsPress&theme=radical)](https://github.com/SuryaRaghuvanshi02/NewsPress)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SuryaRaghuvanshi02&repo=Hardware-Trojan-Detection&theme=radical)](https://github.com/SuryaRaghuvanshi02/Hardware-Trojan-Detection)
-
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
